@@ -6,7 +6,7 @@ A responsive and animated personal portfolio website built with **HTML**, **CSS*
 
 ## 📸 Preview
 
-![Portfolio Screenshot](https://res.cloudinary.com/dnsrtzzwr/image/upload/v1658036218/v1016-b-08_cdfkzo.jpg)
+https://github.com/Pujith11/Responsive-Portfolio-website/blob/74dc695c6a9b03bdfeaef14c1357819983b9360b/Personal%20Portfolio.png
 
 ---
 
